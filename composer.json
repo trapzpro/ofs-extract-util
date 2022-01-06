@@ -1,0 +1,17 @@
+{
+    "name": "trapzpro/ofs-extract-util",
+    "description": "Utilities for working with OFS daily extract files",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Trapzpro\\OfsExtractUtil\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "trapzpro",
+            "email": "43911195+trapzpro@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
